@@ -1,5 +1,8 @@
 # covid19
 
+One Jupyter notebook to explain how one can calculate R_0 from the publicly available data from Robert-Koch Institute. 
+The notebook contains interactive plots. In order to see them correctly. 
+
 Some simple analysis of the data of COVID-19 infections in Germany and extra-polaation using the sigmoid function.
 
 Using data by the John Hopkins University at: \
